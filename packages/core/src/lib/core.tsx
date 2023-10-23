@@ -6,7 +6,7 @@ export interface CoreProps {}
 export function Core(props: CoreProps) {
   return (
     <div className={styles['container']}>
-      <h1>Welcome to Core!</h1>
+      <h1>Welcome to Core, but changed!</h1>
     </div>
   );
 }

@@ -16,6 +16,7 @@
     "baseUrl": ".",
     "paths": {
       "@musetta/table": ["packages/table/src/index.ts"],
+      "@musette/charts": ["packages/charts/src/index.ts"],
       "@musette/core": ["packages/core/src/index.ts"],
       "@musette/forms": ["packages/forms/src/index.ts"],
       "@musette/table": ["packages/table/src/index.ts"]
