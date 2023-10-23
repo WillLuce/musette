@@ -1,5 +1,5 @@
 {
-  "name": "@musette/table",
+  "name": "@musette/forms",
   "version": "0.0.1",
   "dependencies": {
     "@musette/core": "*"
